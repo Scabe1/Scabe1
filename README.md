@@ -1,7 +1,6 @@
 ## Hi, I’m Gabriel Garcia 👋
 
 🎓 Data Science undergraduate at **Arizona State University**
-📍 Phoenix, AZ  
 📊 Focused on Machine Learning, NLP, and Data Analytics
 
 ---
